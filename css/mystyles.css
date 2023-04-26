@@ -1,0 +1,51 @@
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 10px;
+
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.linkdin{
+color:rgb(0, 0, 0);
+text-decoration: underline;
+}
+
+.body{
+
+    font-size: 10px;
+    text-align: left;
+    
+}
+
+
+.rice{
+    font-size: 05px;
+}
+
+.ol{
+    font-style: italic;
+}
+
+.food{
+    color: rgb(70, 70, 70);
+}
